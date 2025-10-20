@@ -1,0 +1,17 @@
+# Ignore OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Node / tooling (future)
+node_modules/
+.npm*
+
+# Logs
+*.log
+
+# Build artifacts (future bundling)
+dist/
+build/
+
+# Env files (none used now, placeholder)
+.env*
